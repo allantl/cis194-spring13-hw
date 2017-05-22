@@ -1,0 +1,4 @@
+.idea/
+.ideaHaskellLib
+.stack-work
+*.iml
